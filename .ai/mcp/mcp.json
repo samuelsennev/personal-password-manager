@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "laravel-boost": {
+      "command": "/Users/samuelsennev/Library/Application Support/Herd/bin/php85",
+      "args": [
+        "/Users/samuelsennev/Desktop/Projetos/Hobby/personal-password-manager/artisan",
+        "boost:mcp"
+      ]
+    }
+  }
+}
